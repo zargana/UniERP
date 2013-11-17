@@ -5,7 +5,7 @@ class Kisi {
     public $soyisim;
     public $dogumTarihi;//sadece yil
     
-    public function getUzunIsım() {
+    public function getirUzunIsım() {
         return $this->isim . ' ' . $this->soyisim;
     }
     
