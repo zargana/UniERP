@@ -27,9 +27,9 @@ $mail->SMTPSecure = 'tls';
 //Whether to use SMTP authentication
 $mail->SMTPAuth = true;
 //Username to use for SMTP authentication - use full email address for gmail
-$mail->Username = "cehasan@gmail.com";
+$mail->Username = "akademikfaaliyet@gmail.com";
 //Password to use for SMTP authentication
-$mail->Password = "";
+$mail->Password = "akademik1234faaliyet";
 //Set who the message is to be sent from
 $mail->setFrom('cehasan@gmail.com', 'Web Sitesinden');
 //Set an alternative reply-to address
